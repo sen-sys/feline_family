@@ -1,8 +1,7 @@
 body{
 	background: #B3B3B3;
 	margin: 2%;
-	height: 1100px;
-	width: 1150px;
+	height: 1400px;
 	background-image: url('../images/Mackovi2.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -12,11 +11,12 @@ header{
 background: rgba(192,192,192,0.5);
 	text-align: center;
 	height: 120px;
-	width: 55%;
+	width: 65%;
     border-radius: 10px;
 }
 h1{
 	color: #FFFFFF;
+	font-size: 250%;
 }
 nav{
 	font-variant: small-caps;
@@ -30,14 +30,10 @@ nav a{
 	margin-left: 5%;
 	margin-right: 5%;
 }
-h2{
-	color: #FFFFFF;
-	margin: 0;
-}
 .saturday{
 	display: inline-block;
 	width: 40%;
-	height: 15%;
+	height: 150px;
 	float: left;
 	background: rgba(192,192,192,0.5);
 	font-size: 100%;
@@ -45,7 +41,7 @@ h2{
 	font-size: 120%;
 	padding: 2%;
 	position: relative;
-	top: 5%;
+	top: 7%;
 }
 .sunday{
 	display: inline-block;
@@ -56,29 +52,38 @@ h2{
 	font-size: 120%;
 	padding: 2%;
 	position:relative;
-	top: 30%;
-	left: 15%;
+	top: 35%;
+	left: 10%;
 }
 .whole{
 	background: rgba(192,192,192,0.4);
-	height: 16%;
+	height: 50px%;
 	clear: both;
 	width: 55%;
 	border-radius: 5px;
 	padding: 10px;
-	font-size: 150%;
+	font-size: 120%;
 	position: relative;
-	top: 35%;
+	top: 55%;
 }
 h3{
 	margin: 0;
 }
 .instructions{
 	position: relative;
-	top: 5%;
+	top: 7%;
 	font-size: 250%;
+	color: #FFFFFF;
 }
-.contact{
+#contact{
+	color: #FFFFFF;
+	font-size: 250%;
+	position: relative;
+	right: 88%;
+	top: 69%;
+}
+h2{
+	margin: 0;
 	color: #FFFFFF;
 }
 
