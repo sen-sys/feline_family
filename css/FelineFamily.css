@@ -1,0 +1,83 @@
+body{
+	background: #B3B3B3;
+	margin: 2%;
+	height: 1050px;
+	background-image: url('../images/Mackovi.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+header{
+background: rgba(192,192,192,0.5);
+	text-align: center;
+	height: 120px;
+	width: 50%;
+    border-radius: 10px;
+}
+h1{
+	color: #FFFFFF;
+}
+nav{
+	font-variant: small-caps;
+	font-size: 150%;
+	font-family: Arial, "Times New Roman", Sarif;
+}
+nav a{
+	width: 22%;
+	display: inline-block;
+	color: #000000;
+}
+h2{
+	color: #FFFFFF;
+	margin: 0;
+}
+.saturday{
+	display: inline-block;
+	width: 40%;
+	height: 15%;
+	float: left;
+	background: rgba(192,192,192,0.5);
+	font-size: 100%;
+	border-radius: 10px;
+	font-size: 120%;
+	padding: 2%;
+	position: relative;
+	top: 5%;
+}
+.sunday{
+	display: inline-block;
+	width: 40%;
+	float: left;
+	background: rgba(192,192,192,0.5);
+	border-radius: 10px;
+	font-size: 120%;
+	padding: 2%;
+	position:relative;
+	top: 30%;
+	left: 10%;
+}
+.whole{
+	background: rgba(192,192,192,0.4);
+	height: 18%;
+	clear: both;
+	width: 50%;
+	border-radius: 5px;
+	padding: 10px;
+	font-size: 150%;
+	position: relative;
+	top: 40%;
+}
+h3{
+	margin: 0;
+}
+.instructions{
+	position: relative;
+	top: 5%;
+	font-size: 250%;
+}
+.contact{
+	color: #FFFFFF;
+}
+
+
+		
