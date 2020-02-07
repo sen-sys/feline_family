@@ -1,7 +1,7 @@
 body{
 	background: #B3B3B3;
 	margin: 2%;
-	height: 1070px;
+	height: 1100px;
 	width: 1150px;
 	background-image: url('../images/Mackovi2.jpg');
 	background-repeat: no-repeat;
@@ -68,7 +68,7 @@ h2{
 	padding: 10px;
 	font-size: 150%;
 	position: relative;
-	top: 40%;
+	top: 30%;
 }
 h3{
 	margin: 0;
